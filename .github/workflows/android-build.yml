@@ -47,6 +47,6 @@ jobs:
           echo "============================================"
           echo "✅ Android APK successfully compiled!"
           echo "App Name: Planora - Smart Schedule & Productivity Planner"
-          echo "Package ID: app.vercel.app"
+          echo "Package ID: app.vercel.planorasmartsch18wq"
           echo "Target Version: 1.0.0 (1)"
           echo "============================================"
